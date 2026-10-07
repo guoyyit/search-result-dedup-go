@@ -1,0 +1,3 @@
+# runtime data directory of dedupd
+/data/
+*.log
